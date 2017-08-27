@@ -4,5 +4,6 @@ Object-Oriented Analysis and Design Course Project:
 -  Implemented application features using Swing for visualization and MySQL as backend database 
 -  Created a dashboard that allows users to query information and generate reports through interactive menu
 
-
-![Alt text](SystemStructure.png "Optional Title")
+  ```
+  ![Alt text](SystemStructure.png "Optional Title")
+  ```
